@@ -1,0 +1,99 @@
+/* =======================================
+   ESTILOS RESERVAR.PHP
+======================================= */
+.container{
+    margin-top:40px;
+    margin-bottom:80px;
+
+.card{
+    border: none;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.card-header-spa{
+    background:#735355;
+    color:white;
+    padding:25px;
+    text-align:center;
+}
+
+.card-header-spa h2{
+    margin:0;
+    color:#F2AEB4;
+    font-weight:600;
+}
+
+.card-body{
+    background:white;
+       padding:2rem !important;
+}
+
+.form-label{
+    color:#735355;
+    font-weight:500;
+}
+
+.form-control,
+.form-select{
+
+    border-radius:12px;
+
+    border:2px solid #E6E6E6;
+
+    padding:12px;
+
+    transition:.3s;
+
+}
+
+.form-control:focus,
+.form-select:focus{
+
+    border-color:#F2AEB4;
+
+    box-shadow:0 0 10px rgba(242,174,180,.35);
+
+}
+
+textarea{
+
+    resize:none;
+     min-height:120px;
+}
+
+.btn-reservar{
+
+    background:#787878;
+
+    color:white;
+
+    border:none;
+
+    border-radius:30px;
+
+    padding:14px;
+
+    font-size:18px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.btn-reservar:hover{
+
+    background:#F2AEB4;
+
+    color:white;
+
+    transform:translateY(-2px);
+
+}
+
+.card{
+
+    box-shadow:0 10px 30px rgba(0,0,0,.10);
+
+}

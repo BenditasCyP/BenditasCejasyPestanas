@@ -1,0 +1,49 @@
+.container h2{
+
+    color:#735355;
+
+    font-weight:700;
+
+}
+
+.table{
+
+    background:white;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+}
+
+thead{
+
+    background:#735355;
+
+    color:white;
+
+}
+
+.badge{
+
+    font-size:.9rem;
+
+    padding:8px 12px;
+
+}
+
+#buscar{
+
+    border-radius:30px;
+
+    border:2px solid #F2AEB4;
+
+}
+
+#buscar:focus{
+
+    border-color:#735355;
+
+    box-shadow:0 0 8px rgba(115,83,85,.3);
+
+}
